@@ -1,5 +1,5 @@
-# Hi I am Rohan Sampath
-## I am a senior in high school from Los Angeles California
+#                         Hi I am Rohan Sampath
+##         I am a senior in high school from Los Angeles California
 
 ![](https://komarev.com/ghpvc/?username=Rohan-dev-C&style=flat&color=DC143C)
 ![](https://img.shields.io/github/followers/Rohan-dev-C?style=social)
