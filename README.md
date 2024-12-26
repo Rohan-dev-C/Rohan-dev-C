@@ -1,7 +1,6 @@
 #                         Hi! I am Rohan Sampath
 ###         I am currently a freshman at Cornell University College of Engineering
 
-![](https://komarev.com/ghpvc/?username=Rohan-dev-C&style=flat&color=DC143C)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-dev-C&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohan-dev-C&show_icons=true&theme=onedark)  
