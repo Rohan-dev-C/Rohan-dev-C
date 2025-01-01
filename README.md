@@ -1,5 +1,5 @@
 # Hi, I am Rohan Sampath
-### I am currently a freshman at Cornell University College of Engineering. I am studying Computer Science and Operations Research & Information Engineering. 
+I am a freshman at Cornell University College of Engineering, where I study Computer Science and Operations Research and Information Engineering. I am interested in learning more about data science and algorithm design in fintech and practical applications. 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-dev-C&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
